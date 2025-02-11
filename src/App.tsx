@@ -1,20 +1,30 @@
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <h1>30 github challenge</h1>
+      <h2>Welcome to the 30 github challenge</h2>
+      <h3>This is a challenge to get 30 stars on github</h3>
+      <div className="container">
+        <div className="row">
+          <div className="col-md-4">
+            <div className="card">
+              <div className="card-body">
+                <h5 className="card-title">
+                  <a href="https://github.com/aiperiakunova/30-github-challenge">
+                    Github
+                  </a>
+                </h5>
+                <p className="card-text">
+                  This is a challenge to get 30 stars on github
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <h1>Vite + React</h1>
     </>
   )
 }
