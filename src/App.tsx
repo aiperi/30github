@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>30 github challenge</h1>
       <h2>Welcome to the 30 github challenge</h2>
-      <h3>This is a challenge to get 30 xKstars on github</h3>
+      <h3>This is a challenge to get 30 stars on github</h3>
       <div className="container">
         <div className="row">
           <div className="col-md-4">
