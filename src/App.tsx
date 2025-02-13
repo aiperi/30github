@@ -1,4 +1,5 @@
 import './App.css'
+import Card from "./components/card.tsx";
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
                 <p className="card-text">
                   This is a challenge to get 30 stars on github
                 </p>
+                  <Card/>
               </div>
             </div>
           </div>
