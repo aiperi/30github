@@ -1,6 +1,7 @@
 import './App.css'
 import Card from "./components/card.tsx";
 import Test from "./components/test.tsx";
+import GradientCard from "./components/gradient-purple.tsx";
 
 function App() {
 
@@ -23,7 +24,7 @@ function App() {
                   This is a challenge to get 30 stars on github
                 </p>
                   <Card/>
-                  <Test/>
+                 <GradientCard/>
               </div>
             </div>
           </div>
