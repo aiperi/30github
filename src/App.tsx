@@ -1,6 +1,5 @@
 import './App.css'
 import Card from "./components/card.tsx";
-import Test from "./components/test.tsx";
 import GradientCard from "./components/gradient-purple.tsx";
 
 function App() {

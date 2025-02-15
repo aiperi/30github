@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Star, Heart } from 'lucide-react';
 
 const GradientCard = () => {
