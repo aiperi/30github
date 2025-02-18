@@ -1,6 +1,7 @@
 import './App.css'
 import Card from "./components/card.tsx";
 import GradientCard from "./components/gradient-purple.tsx";
+import AnimatedDivs from "./components/animated.tsx";
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
                 </p>
                   <Card/>
                  <GradientCard/>
+              <AnimatedDivs/>
               </div>
             </div>
           </div>
