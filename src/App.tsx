@@ -25,7 +25,6 @@ function App() {
                 </p>
                   <Card/>
                  <GradientCard/>
-              <AnimatedDivs/>
               </div>
             </div>
           </div>
