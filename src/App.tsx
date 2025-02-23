@@ -23,9 +23,7 @@ function App() {
                 <p className="card-text">
                   This is a challenge to get 30 stars on github
                 </p>
-                  <p className="card-text">
-                      This is a challenge to get 30 stars on github
-                  </p>
+
                   <Card/>
                  <GradientCard/>
               </div>
